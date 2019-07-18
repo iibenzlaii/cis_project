@@ -8,6 +8,7 @@
         deliveryman2@mail.com
 (user 3)ni@gmail.com
 ชื่อ database:microchip
+ไฟล์อยู่ใน folder:Mysql
 ขอบเขตโปรแกรม
 Web Application
 (user 1)เจ้าของกิจการ/ผู้ดูแลระบบ
